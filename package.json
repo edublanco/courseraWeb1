@@ -1,0 +1,24 @@
+{
+  "name": "courseraweb1",
+  "version": "1.0.0",
+  "description": "semana 1 coursera, aprendiendo node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edublanco/courseraWeb1.git"
+  },
+  "author": "Eduardo Blanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edublanco/courseraWeb1/issues"
+  },
+  "homepage": "https://github.com/edublanco/courseraWeb1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
